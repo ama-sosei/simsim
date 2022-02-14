@@ -1,8 +1,6 @@
-.idea/
 *.swp
 .soccer.wbproj
 *.pyc
 reflog/
-docs/docs/site/
-x11docker/
-Makefile
+__pycache__/
+
