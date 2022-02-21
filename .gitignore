@@ -1,6 +1,12 @@
-*.swp
-.soccer.wbproj
-*.pyc
 reflog/
 __pycache__/
 
+*.swp
+.soccer.wbproj
+*.pyc
+*.bak
+*.log
+
+.vscode/
+*.sublime-project
+*.sublime-workspace
